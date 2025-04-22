@@ -1,4 +1,4 @@
-package com.projects.devnest.config;
+package com.projects.devnest.common.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
